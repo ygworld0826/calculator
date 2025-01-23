@@ -11,12 +11,7 @@
 }
 
 body {
-  background-image: linear-gradient(
-      to bottom,
-      rgba(223, 169, 169, 0.288),
-      rgba(255, 255, 255, 0)
-    ),
-    url('./data/rocketboost-motif.png');
+  background-color: rgba(173, 216, 230, 0.3);
 }
 
 /*
